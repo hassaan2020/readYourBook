@@ -404,7 +404,7 @@ html{
         top: 45%;
     }
     .head .head2 #c h4{
-        font-size: 85px;
+        font-size: 55px;
     }
     .head .head2 .forms{
         width: 90%;
@@ -416,6 +416,7 @@ html{
         display: none;
     }
     
+/*
     .ads .left{
         width: 100%; 
         float: none;
@@ -433,7 +434,7 @@ html{
     .features .feat{
         width: calc(100% - 80px);
         margin: 20px;
-        height: 15%;
+        height: 150px;
         
     }
     .features .feat img{
@@ -444,12 +445,59 @@ html{
         bottom: 0;
         
     }
+*/
+    .ads .right{
+        width: 64%;
+        height: 355px;
+        border-bottom: 2px solid;
+        border-bottom-style: dashed;
+        border-top: 2px solid;
+        border-top-style: dashed;
+    }
+    .ads .right p{
+        font-size: 10px;
+        line-height: normal;
+    }
+    .ads .right h3{
+        font-size: 10px;
+    }
+    .ads .left{
+        width: 36%;
+        height: 355px;
+        border-bottom: 2px solid;
+        border-bottom-style: dashed;
+        border-top: 2px solid;
+        border-top-style: dashed;
+    }
+    
+    .features .feat{
+        height: 150px;
+        font-size: 10px;
+    }
+    .features .feat .det{
+        height: 30%;
+        text-align: center;
+        bottom: 0;
+        
+    }
+    .features .feat .det span,i{
+        margin-top: 5px;
+        padding-bottom: 10px;
+    }
+    .features .feat .det h4{
+        margin: 0;
+        margin-top: 5px;
+        padding: 5px;
+        text-align: center;
+    }
+    
     .footer .links .link1 i{
         background: #332a73;
         font-size: 20px;
         padding: 20px 20px;
         border-radius: 70px;
     }
+    
 
 
 } 
@@ -462,7 +510,7 @@ html{
     }
     
     .head .head2 #c h4{
-        font-size: 125px;
+        font-size: 80px;
     }
     .head .head2 .forms{
         width: 90%;
@@ -473,6 +521,7 @@ html{
     .nav{
         display: none;
     }
+/*
     
     .ads .left{
         width: 100%; 
@@ -500,38 +549,49 @@ html{
         text-align: center;
         bottom: 0;
     }
+*/
+     .ads .right{
+        width: 64%;
+        height: 355px;
+        border-bottom: 2px solid;
+        border-bottom-style: dashed;
+        border-top: 2px solid;
+        border-top-style: dashed;
+    }
+    .ads .right p{
+        font-size: 13px;
+        line-height: normal;
+    }
+    .ads .right h3{
+        font-size: 15px;
+    }
+    .ads .left{
+        width: 36%;
+        height: 355px;
+        border-bottom: 2px solid;
+        border-bottom-style: dashed;
+        border-top: 2px solid;
+        border-top-style: dashed;
+    }
+    
+    .features .feat{
+        height: 200px;
+        font-size: 10px;
+    }
+    .features .feat .det{
+        height: 30%;
+        text-align: center;
+        bottom: 0;
+        
+    }
+    .features .feat .det span,i{
+        margin-top: 5px;
+        padding-bottom: 10px;
+    }
+    .features .feat .det h4{
+        margin: 0;
+        margin-top: 5px;
+        padding: 5px;
+        text-align: center;
+    }
 } 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
